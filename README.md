@@ -1,6 +1,6 @@
-# taluoku-v3-
+# taluo
 
-## Feel free to delete this file and replace it with your own content.
+## 尝试 bolt 连接版本
 
 ## Repository Initialization Notice
 
